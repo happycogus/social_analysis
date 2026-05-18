@@ -1,7 +1,7 @@
 # social_analysis
 
 #사용한 프롬프트 공유 링크
-https://aistudio.google.com/u/3/prompts/new_chat
+https://aistudio.google.com/u/3/prompts/1orFJFPJy1fSnx9TE4VjqYqQGMCwKBLTJ
 
 #데이터와 시각화 결과
 1) 데이터 클린징/업로드 과정
